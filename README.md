@@ -18,9 +18,9 @@ Additionally, the notebook includes basic hyperparameter tuning for RandomForest
 - Import modules, read data and display some data
 - Prepare subset of training and test data without any NaN in Age
 - Predict 'Survived' for passengers data with Age
- - Grid search and fit with Random Forest Classifier
- - Grid search and fit with AdaBoost Classifier
- - Predict based on better algorithm and score
+  - Grid search and fit with Random Forest Classifier
+  - Grid search and fit with AdaBoost Classifier
+  - Predict based on better algorithm and score
 - Predict 'Survived' with Random Forest Classifier for passengers data without Age
 - Concatenate predictions
 - Summary
